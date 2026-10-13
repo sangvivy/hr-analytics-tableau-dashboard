@@ -50,6 +50,9 @@ Provides a summary of workforce indicators, including total employees hired, act
 | Total Terminated | 966 |
 | Active Employee Percentage | 89.21% |
 
+<img width="971" height="527" alt="image" src="https://github.com/user-attachments/assets/a3db14a7-0d04-42a5-8016-2b604aa63b12" />
+
+
 ### 2. Demographics
 
 Explores workforce composition through visualisations covering employee age, gender, education level, and other demographic characteristics.
